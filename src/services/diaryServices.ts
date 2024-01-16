@@ -1,5 +1,5 @@
 import { DiaryEntry, NonSensitiveInfoDiaryEntry, newDiaryEntry  } from '../types'
-import diaryData from './diaries'
+import diaryData from './diaries.json'
 
 
 const diaries: DiaryEntry[] = diaryData as Array<DiaryEntry>
